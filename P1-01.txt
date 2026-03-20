@@ -1,21 +1,25 @@
 === MES RÉPONSES AU CDC P1-01 ===
 
 Q1: Combien de couleurs à détecter ?
-R: ___________________________
+R: 3 : Rouge, bleu,vert
 
 Q2: Combien de coulissoirs de sortie ?
-R: ___________________________
+R: 3 coulissoirs
 
 Q3: Que faire si couleur inconnue ?
-R: ___________________________
+R: Alerte si couleur inconnue
 
 Q4: Quels sont les 3 modes ?
-R: Mode 1 : ___________________
-   Mode 2 : ___________________
-   Mode 3 : ___________________
+R: Mode 1 : Automatique
+   Mode 2 : Manuel
+   Mode 3 : Arrêt d'urgence
 
 Q5: Quels logiciels utiliser ?
-R: ___________________________
+R: TIA PORTAL,
 
 Q6: Quels sont les livrables attendus ?
-R: ___________________________
+R: •	Projet TIA Portal complet (.ap17) versionné sur GitHub
+•	Tableau d'adressage E/S (Excel)
+•	GRAFCET de la séquence principale
+•	Notice technique avec captures d'écran
+•	Vidéo de démonstration de la simulation (screen recording)
