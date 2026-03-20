@@ -23,3 +23,8 @@ R: •	Projet TIA Portal complet (.ap17) versionné sur GitHub
 •	GRAFCET de la séquence principale
 •	Notice technique avec captures d'écran
 •	Vidéo de démonstration de la simulation (screen recording)
+
+outils
+Light Array (Emitter and Receiver)
+A set of parallel light beams used to create a sensing field. 
+
