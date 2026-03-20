@@ -1,0 +1,21 @@
+=== MES RÉPONSES AU CDC P1-01 ===
+
+Q1: Combien de couleurs à détecter ?
+R: ___________________________
+
+Q2: Combien de coulissoirs de sortie ?
+R: ___________________________
+
+Q3: Que faire si couleur inconnue ?
+R: ___________________________
+
+Q4: Quels sont les 3 modes ?
+R: Mode 1 : ___________________
+   Mode 2 : ___________________
+   Mode 3 : ___________________
+
+Q5: Quels logiciels utiliser ?
+R: ___________________________
+
+Q6: Quels sont les livrables attendus ?
+R: ___________________________
